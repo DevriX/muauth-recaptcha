@@ -1,0 +1,93 @@
+# Copyright (C) 2017 reCaptcha for Multisite Auth
+# This file is distributed under the same license as the reCaptcha for Multisite Auth package.
+msgid ""
+msgstr ""
+"Project-Id-Version: reCaptcha for Multisite Auth 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/muauth-recaptcha\n"
+"POT-Creation-Date: 2017-01-30 19:33:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/functions.php:8
+msgctxt "settings title"
+msgid "reCaptcha"
+msgstr ""
+
+#: includes/admin/functions.php:23
+msgid "reCaptcha credentials:"
+msgstr ""
+
+#: includes/admin/functions.php:25
+msgid ""
+"Before you setup this plugin, make sure to go to <a href=\"https://www."
+"google.com/recaptcha\" target=\"_blank\">Google reCaptcha</a> website and "
+"register your site. After that, insert both public and secret captcha keys "
+"in the following fields. A <a href=\"https://www.google.com/search?q=how+to"
+"+get+google+recaptcha\" target=\"_blank\">tutorial</a> might also help."
+msgstr ""
+
+#: includes/admin/functions.php:28
+msgid "Enter your Google reCaptcha public key:"
+msgstr ""
+
+#: includes/admin/functions.php:33
+msgid "Enter your Google reCaptcha secret key:"
+msgstr ""
+
+#: includes/admin/functions.php:38
+msgid "Where to require reCaptcha:"
+msgstr ""
+
+#: includes/admin/functions.php:49
+msgid "Disable reCaptcha:"
+msgstr ""
+
+#: includes/admin/functions.php:54
+msgid "Disable reCaptcha for logged-in users"
+msgstr ""
+
+#: includes/admin/functions.php:59
+msgid "Disable for user roles: (when logged-in)"
+msgstr ""
+
+#: includes/admin/functions.php:71
+msgid "reCaptcha Language:"
+msgstr ""
+
+#: includes/admin/functions.php:147
+msgid ""
+"Google reCaptcha public and secret keys missing, please update your <a href="
+"\"%s\">reCaptcha settings</a>."
+msgstr ""
+
+#: includes/admin/functions.php:155
+msgid "Settings"
+msgstr ""
+
+#: includes/functions.php:128
+msgid "Please complete this test!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "reCaptcha for Multisite Auth"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://samelh.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Google's No Captcha reCaptcha implementation for Multisite Auth plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samuel Elh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://samelh.com"
+msgstr ""
